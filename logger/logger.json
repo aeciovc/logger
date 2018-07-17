@@ -37,11 +37,6 @@
     },
 
     "loggers": {
-        "mongo": {
-            "level": "INFO",
-            "handlers": [],
-            "propagate": "yes"
-        }
     },
 
     "root": {

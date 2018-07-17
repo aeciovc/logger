@@ -7,7 +7,7 @@ README = os.path.join(os.path.dirname(__file__), 'README.rst')
 setup(
     name='logger',
     version='0.0.1',
-    description='Logger is a module to provide default log setup and others kind of log systems',
+    description='Logger is a module to provide default log setup',
     long_description=open(README).read(),
     license='MIT',
     packages=find_packages(exclude=['test', 'test.*']),

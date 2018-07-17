@@ -1,1 +1,2 @@
 include logger/logger.json
+include LICENSE

@@ -37,8 +37,8 @@
     },
 
     "loggers": {
-        "newrelic": {
-            "level": "ERROR",
+        "mongo": {
+            "level": "INFO",
             "handlers": [],
             "propagate": "yes"
         }

@@ -1,4 +1,4 @@
-'''Logger: Log activities with support for monitoring tools'''
+'''Logger: Log activities with support custom formats and remote stores'''
 
 import logging
 import json

@@ -1,7 +1,16 @@
 Logger: Setup log default config
 ========================================================
 
-Usage
+Build
+====
+
+How to build this module:
+
+.. code-block:: console
+    
+    python setup.py sdist
+
+Usage on apps
 ====
 
 Install:

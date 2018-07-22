@@ -1,6 +1,7 @@
 '''Logger: Log activities with support custom formats and remote stores'''
 
 import logging
+import logging.config
 import json
 import os
 

@@ -19,10 +19,22 @@ Install:
 
     pip install git+git://github.com/aeciovc/logger.git
 
+    or, after a local build:
+
+.. code-block:: console
+
+    pip install logger-0.0.1.tar.gz
+
 
 Import:
 
 .. code-block:: python
     
-    from logger import default
+    from logger import logger
+
+Set a different level:
+
+.. code-block:: python
+    
+    logger.setLevel(logging.DEBUG)
 
